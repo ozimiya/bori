@@ -13,8 +13,8 @@ HPG.TEST = {
 		this.modalState = {
 			show: false,
 			trigger: null,
-        }
-    },
+		}
+	},
 	bindEvent: function(){
 		var _self = this;
 
